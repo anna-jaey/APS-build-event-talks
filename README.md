@@ -1,0 +1,1 @@
+These are the presentations I gave at the Artifical Pancreas/Loop build events in Brisbane (20/07/19) and at the Gold Coast (12/10/2019)
